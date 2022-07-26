@@ -1,6 +1,6 @@
 <h1>Hi there 👋, I'm Vlad</h1>
 
-- 💻 I’m currently learning Python/Django, HTML, CSS, JavaScript, MySQL, PHP
+- 💻 I’m currently learning Python/Django, HTML, CSS, JavaScript, MySQL
 
 - 🎮 I love video games of different genres and themes. My Favorite: The Witcher 3, Red Dead Redemption 2, God of War 2018
 
