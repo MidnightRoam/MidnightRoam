@@ -27,3 +27,9 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=midnightroam&show_icons=true&locale=en&layout=compact" alt="midnightroam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=midnightroam&show_icons=true&locale=en" alt="midnightroam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightroam&" alt="midnightroam" /></p>
