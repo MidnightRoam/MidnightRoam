@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/embedded/download/3otv.gif)](https://i.gifer.com/embedded/download/3otv.gif)
+[![MasterHead](https://i.gifer.com/embedded/download/3otv.gif)](https://github.com/MidnightRoam)
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">An ordinary guy trying to make his dream come true</h3>
 
