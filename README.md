@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-   
+<p align="left">
 <img align="left" alt="Python" width="40px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Python" width="40px" height="40" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
 <img align="left" alt="PyCharm" width="40px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pycharm/pycharm-original.svg" />
@@ -27,7 +27,7 @@
 <img align="left" alt="MySQL"width="40px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Git" width="40px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" />
 <img align="left" alt="GitHub"width="40px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" />
-
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=midnightroam&show_icons=true&locale=en&layout=compact" alt="midnightroam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=midnightroam&show_icons=true&locale=en" alt="midnightroam" /></p>
