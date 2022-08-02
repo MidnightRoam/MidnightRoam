@@ -1,10 +1,17 @@
-<h1>Hi there 👋, I'm Vlad</h1>
+<h1 align="center">Hi 👋, I'm Vlad</h1>
+<h3 align="center">An ordinary guy trying to make his dream come true</h3>
 
 - 💻 I’m currently learning Python/Django, HTML, CSS, JavaScript, MySQL
 
 - 🎮 I love video games of different genres and themes. My Favorite: The Witcher 3, Red Dead Redemption 2, God of War 2018
 
 - 🎑 I love watching anime. My Favorite: Jojo, Attack on Titans, Demon Slayer
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/19206535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19206535" height="30" width="40" /></a>
+<a href="https://discord.gg/#9440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9440" height="30" width="40" /></a>
+</p>
 
 ### Languages and Tools:
 
