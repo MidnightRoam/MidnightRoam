@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">An ordinary guy trying to make his dream come true</h3>
 
+<p align="left"> <img src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="midnightroam" /> </p>
+
 - 💻 I’m currently learning Python/Django, HTML, CSS, JavaScript, MySQL
 
 - 🎮 I love video games of different genres and themes. My Favorite: The Witcher 3, Red Dead Redemption 2, God of War 2018
