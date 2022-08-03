@@ -44,7 +44,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midnightroam&theme=radical&show_icons=true)
 
-<img align="left" src="https://twilio-cms-prod.s3.amazonaws.com/original_images/gif02.gif">
+<img align="right" src="https://twilio-cms-prod.s3.amazonaws.com/original_images/gif02.gif" width="100px" height="100px">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightroam&theme=radical" alt="midnightroam" /></p>
 
