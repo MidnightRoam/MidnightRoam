@@ -1,6 +1,4 @@
 [![MasterHead](https://github.com/midnightroam/MidnightRoam/raw/main/profilebannergithub.png)](https://github.com/MidnightRoam)
-<h1 align="center">Hi 👋, I'm Vlad</h1>
-<h3 align="center">An ordinary guy trying to make his dream come true</h3>
 
 - 💻 I’m currently learning Python/Django, HTML, CSS, JavaScript, MySQL
 
