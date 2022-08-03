@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://github.com/MidnightRoam)
+[![MasterHead](https://liyasthomas.github.io/banner/)](https://github.com/MidnightRoam)
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">An ordinary guy trying to make his dream come true</h3>
 
