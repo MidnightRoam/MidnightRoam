@@ -42,9 +42,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<p> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midnightroam&theme=radical&show_icons=true)
-<img align="right" src="https://yt3.ggpht.com/ytc/AKedOLS4XT6C7oPlKzlVzxI157rlpfnd2C4iCyOIfdJP=s900-c-k-c0x00ffffff-no-rj" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midnightroam&theme=radical&show_icons=true)
+<img align="right" src="https://yt3.ggpht.com/ytc/AKedOLS4XT6C7oPlKzlVzxI157rlpfnd2C4iCyOIfdJP=s900-c-k-c0x00ffffff-no-rj" width="128px" height="128px" />
+
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightroam&theme=radical" alt="midnightroam" /></p>
 
 
