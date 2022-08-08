@@ -38,9 +38,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a> 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midnightroam&theme=radical&show_icons=true)
+<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midnightroam&theme=radical&show_icons=true)
 
-<blockqoute>«Motivation is what gets you started. Habit is what keeps you going.»</blockquote>
+<blockquote>«Motivation is what gets you started. Habit is what keeps you going.»</blockquote> </p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightroam&theme=radical" alt="midnightroam" /></p>
 
