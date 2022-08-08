@@ -40,8 +40,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midnightroam&theme=radical&show_icons=true)
 
+<blockqoute>«Motivation is what gets you started. Habit is what keeps you going.»</blockquote>
+
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightroam&theme=radical" alt="midnightroam" /></p>
 
-<blockquote>«Success consists of going from failure to failure without loss of enthusiasm»</blockquote>
+<blockquote>«Success consists of going from failure to failure without loss of enthusiasm.»</blockquote>
 
 
