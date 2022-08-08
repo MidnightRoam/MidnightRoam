@@ -4,7 +4,7 @@
 
 - 🎮 I love video games of different genres and themes. My Favorite: <a href="https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/?l=english">The Witcher 3</a>, <a href="https://en.wikipedia.org/wiki/Red_Dead_Redemption_2">Red Dead Redemption 2</a>, <a href="https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)">God of War 2018</a>
 
-- 🎑 I love watching anime. My Favorite: Jojo, Attack on Titans, Demon Slayer
+- 🎑 I love watching anime. My Favorite: <a href="https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure">JoJo's Bizarre Adventure</a>, <a href="https://en.wikipedia.org/wiki/Attack_on_Titan">Attack on Titans</a>, <a href="https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba">Demon Slayer</a>
 
 - 📫 How to reach me **midnightroam1@gmail.com**
 
