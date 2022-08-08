@@ -2,11 +2,14 @@
 <hr>
 💻 I’m currently learning Python/Django, HTML, CSS, JavaScript/VueJS, MySQL
 
+<strong>Also my other hobbies:</strong>
+
 - 🎮 I love video games of different genres and themes. My Favorite: <a href="https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt">The Witcher 3</a>, <a href="https://en.wikipedia.org/wiki/Red_Dead_Redemption_2">Red Dead Redemption 2</a>, <a href="https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)">God of War 2018</a>
 
 - 🎑 I love watching anime. My Favorite: <a href="https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure">JoJo's Bizarre Adventure</a>, <a href="https://en.wikipedia.org/wiki/Attack_on_Titan">Attack on Titans</a>, <a href="https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba">Demon Slayer</a>
 
 - 📫 How to reach me **midnightroam1@gmail.com**
+
 
 <hr>
 <h3 align="left">Connect with me:</h3>
@@ -15,6 +18,7 @@
 <a href="https://discord.gg/Midnight Roam#9440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9440" height="30" width="40" /></a>
 </p>
 <hr>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
