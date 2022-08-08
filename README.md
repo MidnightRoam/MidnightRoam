@@ -2,7 +2,7 @@
 
 - 💻 I’m currently learning Python/Django, HTML, CSS, JavaScript/VueJS, MySQL
 
-- 🎮 I love video games of different genres and themes. My Favorite: The Witcher 3, Red Dead Redemption 2, God of War 2018
+- 🎮 I love video games of different genres and themes. My Favorite: <a href="https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/?l=english">The Witcher 3</a>, Red Dead Redemption 2, God of War 2018
 
 - 🎑 I love watching anime. My Favorite: Jojo, Attack on Titans, Demon Slayer
 
