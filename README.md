@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/midnightroam/MidnightRoam/raw/main/profilebannergithub.png)](https://github.com/MidnightRoam)
 
-- 💻 I’m currently learning Python/Django, HTML, CSS, JavaScript, MySQL
+- 💻 I’m currently learning Python/Django, HTML, CSS, JavaScript/VueJS, MySQL
 
 - 🎮 I love video games of different genres and themes. My Favorite: The Witcher 3, Red Dead Redemption 2, God of War 2018
 
@@ -16,10 +16,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -34,8 +36,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40"/> </a> 
     <a href="https://github.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midnightroam&theme=radical&show_icons=true)
