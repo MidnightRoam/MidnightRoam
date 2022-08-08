@@ -42,5 +42,6 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightroam&theme=radical" alt="midnightroam" /></p>
 
+<blockquote>«Success consists of going from failure to failure without loss of enthusiasm»</blockquote>
 
 
