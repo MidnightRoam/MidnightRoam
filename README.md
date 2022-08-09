@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/midnightroam/MidnightRoam/raw/main/profilebannergithub.png)](https://github.com/MidnightRoam)
 <hr>
-💻 I’m currently learning Python/Django, HTML, CSS, JavaScript/VueJS, MySQL
+- 💻 I’m currently learning Python/Django<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="5" height="5"/>, HTML, CSS, JavaScript/VueJS, MySQL
 
 - 🎮 I love video games of different genres and themes. My Favorite: <a href="https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt">The Witcher 3</a>, <a href="https://en.wikipedia.org/wiki/Red_Dead_Redemption_2">Red Dead Redemption 2</a>, <a href="https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)">God of War 2018</a>
 
