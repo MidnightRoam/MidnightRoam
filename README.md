@@ -1,10 +1,11 @@
 [![MasterHead](https://github.com/midnightroam/MidnightRoam/raw/main/profilebannergithub.png)](https://github.com/MidnightRoam)
 <hr>
-💻 I’m currently learning Python/Django, HTML, CSS, JavaScript/VueJS, MySQL to become a professional full-stack developer!<a href=""> </a>
 
-- 🎮 I love video games of different genres and themes. My Favorite: <a href="https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt">The Witcher 3</a>, <a href="https://en.wikipedia.org/wiki/Red_Dead_Redemption_2">Red Dead Redemption 2</a>, <a href="https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)">God of War 2018</a>
+💻 I am an aspiring full-stack developer, learning and experienced in development with tools such as: Python (framework Django), CSS, HTML, JavaScript (framework Vue), MySQL.
 
-- 🎑 I love watching anime. My Favorite: <a href="https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure">JoJo's Bizarre Adventure</a>, <a href="https://en.wikipedia.org/wiki/Attack_on_Titan">Attack on Titans</a>, <a href="https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba">Demon Slayer</a>
+- My hard skills: development on Python/Django, HTML, CSS, JavaScript/Vue.js, MySQL, Git. I Also type very fast on the keyboard.
+
+- My soft skills: friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement, love for programming and the IT world.
 
 - 📫 How to reach me **midnightroam1@gmail.com** ✎
 
