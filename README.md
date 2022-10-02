@@ -3,9 +3,9 @@
 
 💻 I am an aspiring full-stack developer, learning and experienced in development with tools such as: Python (framework Django), CSS, HTML, JavaScript (framework Vue), MySQL.
 
-👷 My hard skills: development on Python/Django, HTML, CSS, JavaScript/Vue.js, MySQL, Git. I Also type very fast on the keyboard.
+- 👷 My hard skills: development on Python/Django, HTML, CSS, JavaScript/Vue.js, MySQL, Git. I Also type very fast on the keyboard.
 
-🧸 My soft skills: friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement, love for programming and the IT world.
+- 🧸 My soft skills: friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement, love for programming and the IT world.
 
 - 📫 How to reach me **midnightroam1@gmail.com** ✎
 
