@@ -59,5 +59,4 @@
 <blockquote>«Success consists of going from failure to failure without loss of enthusiasm.»
 Winston Churchill</blockquote>
 <hr>
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
