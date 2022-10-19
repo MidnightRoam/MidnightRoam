@@ -7,7 +7,7 @@
 
 - 🧸 My soft skills: friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement, love for programming and the IT world, English language B1-B2.
 
-- 📫 How to reach me **midnightroam1@gmail.com** ✎
+- 📫 How to reach me **midnightroam1@gmail.com**
 
 
 <hr>
