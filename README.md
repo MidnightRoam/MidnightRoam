@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/midnightroam/MidnightRoam/raw/main/profilebannergithub.png)](https://github.com/MidnightRoam)
 <hr>
 
-💻 I am an aspiring full-stack developer, learning and experienced in development with tools such as: Python (framework Django), CSS, HTML, JavaScript (framework Vue), MySQL.
+💻 I am an junior full-stack developer, learning and experienced in development with tools such as: Python (framework Django), CSS, HTML, JavaScript (framework Vue), MySQL.
 
 - 👷 My hard skills: development on Python/Django, HTML, CSS, JavaScript/Vue.js, MySQL, Git, English language B1-B2. I also have the skill of fast, blind typing.
 
