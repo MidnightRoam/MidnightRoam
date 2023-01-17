@@ -59,5 +59,5 @@
 <blockquote>«Success consists of going from failure to failure without loss of enthusiasm.»
 Winston Churchill</blockquote>
 <hr>
-https://www.codewars.com/users/MidnightRoam/badges/large
+<a href="default.asp"><img src="https://www.codewars.com/users/MidnightRoam/badges/large" alt="codewars-badge"></a>
 
