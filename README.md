@@ -1,4 +1,5 @@
 [![MasterHead](https://github.com/midnightroam/MidnightRoam/raw/main/profilebannergithub.png)](https://github.com/MidnightRoam)
+<a href="default.asp"><img src="https://www.codewars.com/users/MidnightRoam/badges/large" alt="codewars-badge"></a>
 <hr>
 
 💻 I am an full-stack developer. My technology stack: Python (framework Django), CSS, HTML, JavaScript, MySQL.
@@ -59,5 +60,5 @@
 <blockquote>«Success consists of going from failure to failure without loss of enthusiasm.»
 Winston Churchill</blockquote>
 <hr>
-<a href="default.asp"><img src="https://www.codewars.com/users/MidnightRoam/badges/large" alt="codewars-badge"></a>
+
 
