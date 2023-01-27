@@ -5,7 +5,7 @@
 
 💻 I am an full-stack developer. My technology stack: Python (framework Django), CSS, HTML, JavaScript, MySQL.
 
-- 👷 My hard skills: knowledge of Python/Django, HTML, CSS, JavaScript, MySQL, Git.
+- 👷 My hard skills: knowledge of Python/Django, DRF, HTML, CSS, JavaScript, MySQL, Git.
 
 - 🧸 My soft skills: friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement, love for programming and the IT world, English language B1-B2. I also have the skill of fast, blind typing.
 
