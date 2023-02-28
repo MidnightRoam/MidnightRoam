@@ -3,7 +3,7 @@
 <a href="default.asp"><img src="https://www.codewars.com/users/MidnightRoam/badges/large" alt="codewars-badge" style="text-align: center"></a>
 <hr>
 
-💻 I am an full-stack developer. My technology stack: Python, Django, DRF, CSS, HTML, JavaScript, MySQL.
+💻 I am an full-stack developer. My technology stack: Python, Django, DRF, CSS, HTML, JavaScript, SQL/MySQL.
 
 - 👷 My hard skills: knowledge of Python, Django, DRF, MySQL, JavaScript, CSS, HTML, Git.
 
