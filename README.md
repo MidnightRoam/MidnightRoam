@@ -3,9 +3,9 @@
 <a href="default.asp"><img src="https://www.codewars.com/users/MidnightRoam/badges/large" alt="codewars-badge" style="text-align: center"></a>
 <hr>
 
-💻 I am an full-stack developer. My technology stack: Python, Django, DRF, CSS, HTML, JavaScript, SQL/MySQL.
+💻 I am an full-stack developer. My technology stack: Python, Django, DRF, Docker, CSS, HTML, JavaScript, SQL/MySQL.
 
-- 👷 My hard skills: knowledge of Python, Django, DRF, MySQL, JavaScript, CSS, HTML, Git.
+- 👷 My hard skills: knowledge of Python, Django, DRF, Docker, MySQL, JavaScript, CSS, HTML, Git.
 
 - 🧸 My soft skills: friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement, love for programming and the IT world, English language B1-B2. I also have the skill of fast, blind typing.
 
