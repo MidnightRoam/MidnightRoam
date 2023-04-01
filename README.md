@@ -58,6 +58,8 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightroam&theme=radical" alt="midnightroam" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnightroam&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <blockquote>«Success consists of going from failure to failure without loss of enthusiasm.»
 Winston Churchill</blockquote>
 <hr>
