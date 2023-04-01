@@ -55,7 +55,7 @@
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midnightroam&theme=radical&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnightroam&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnightroam&theme=radical&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightroam&theme=radical" alt="midnightroam" /></p>
 
 
