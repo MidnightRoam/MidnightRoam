@@ -7,7 +7,7 @@
 
 - 👷 My hard skills: knowledge of Python (confidently), Django (confidently), DRF, Docker, Redis, Celery, SQL/MySQL, JavaScript, CSS, HTML, Git.
 
-- 🧸 My soft skills: friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement, English language B1-B2.
+- 🧸 My soft skills: English language B1-B2, friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement.
 
 - 📫 How to reach me **midnightroam1@gmail.com**
 
