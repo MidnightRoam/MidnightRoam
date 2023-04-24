@@ -5,7 +5,7 @@
 
 💻 I am an backend/full-stack developer. My stack: Python, Django, DRF, Docker, Redis, Celery, CSS, HTML, JavaScript, SQL/MySQL.
 
-- 👷 My hard skills: knowledge of Python (confidently), Django (confidently), DRF, Docker, Redis, Celery, SQL/MySQL, JavaScript, CSS, HTML, Git.
+- 👷 My hard skills: knowledge of Python (confidently), Django (confidently), DRF, Docker, Redis, Celery, SQL/MySQL, JavaScript, VueJS, CSS, HTML, Git.
 
 - 🧸 My soft skills: English language B1-B2, friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement.
 
