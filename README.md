@@ -3,7 +3,7 @@
 <a href="default.asp"><img src="https://www.codewars.com/users/MidnightRoam/badges/large" alt="codewars-badge" style="text-align: center"></a>
 <hr>
 
-💻 I am an backend/full-stack developer. My stack: Python, Django, DRF, Docker, Redis, Celery, CSS, HTML, JavaScript, SQL/MySQL.
+💻 I am an backend/full-stack Python developer. My stack: Python, Django, DRF, Docker, Redis, Celery, CSS, HTML, JavaScript, SQL/MySQL.
 
 - 👷 My hard skills: knowledge of Python (confidently), Django (confidently), DRF, Docker, Redis, Celery, SQL/MySQL, JavaScript, VueJS, CSS, HTML, Git.
 
