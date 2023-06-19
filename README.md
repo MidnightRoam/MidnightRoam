@@ -5,7 +5,7 @@
 
 💻 I am an backend/full-stack Python developer. 
 
-- 👷 My hard skills: knowledge of Python (confidently), Django (confidently), DRF, Docker, Redis, Celery, SQL/MySQL, JavaScript, VueJS, CSS, HTML, Git.
+- 👷 My hard skills: knowledge of Python (confidently), Django (confidently), DRF, Docker, Redis, Celery, SQL/MySQL, JavaScript, VueJS, CSS, HTML, Git, Scrapy.
 
 - 🧸 My soft skills: English language B1-B2, friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement.
 
