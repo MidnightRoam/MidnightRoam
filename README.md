@@ -5,7 +5,44 @@
 
 💻 I am an backend/full-stack Python developer
 
-- 👷 My hard skills: knowledge of Python (confidently), Django (confidently), DRF, Docker, Redis, Celery, SQL/MySQL, JavaScript, VueJS, CSS, HTML, Git, Scrapy, Aiogram.
+- 👷 Skills and Competencies:
+
+Backend:
+- Python
+- Django
+- Django REST framework
+- FastAPI
+- Git
+- Linux console
+- Docker
+- Celery
+- Redis
+- Deployment experience
+- Scrapy
+- Aiogram
+
+Databases and Related:
+- SQL syntax
+- MySQL
+- PostgreSQL
+- SQLAlchemy, Django ORM
+- Alembic
+
+Frontend:
+- JavaScript
+- HTML, CSS
+- VueJS
+
+Additional skills:
+- Understanding of OOP (Object-Oriented Programming)
+- Optimization of Django ORM queries to the database
+- Understanding of principles such as DRY, KISS, YAGNI
+- Code documentation
+- Familiarity with Swagger (OpenAPI)
+- Experience using Jira
+- Experience using Miro
+- Experience using Slack
+- Understanding of Agile (Scrum, Kanban) and Waterfall development methodologies.
 
 - 🧸 My soft skills: English language B1-B2, friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement.
 
