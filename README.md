@@ -5,8 +5,8 @@
 
 💻 I am an backend/full-stack Python developer
 
-👷 Skills and Competencies:
-Backend:
+👷 **Skills and Competencies**:
+**Backend**:
 - Python
 - Django
 - Django REST framework
@@ -20,19 +20,19 @@ Backend:
 - Scrapy
 - Aiogram
 
-Databases and Related:
+**Databases and Related**:
 - SQL syntax
 - MySQL
 - PostgreSQL
 - SQLAlchemy, Django ORM
 - Alembic
 
-Frontend:
+**Frontend**:
 - JavaScript
 - HTML, CSS
 - VueJS
 
-Additional skills:
+**Additional skills**:
 - English language B1-B2
 - Understanding of OOP (Object-Oriented Programming)
 - Optimization of Django ORM queries to the database
@@ -44,7 +44,7 @@ Additional skills:
 - Experience using Slack
 - Understanding of Agile (Scrum, Kanban) and Waterfall development methodologies.
 
-🧸 My soft skills: friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement.
+🧸 **My soft skills**: friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement.
 
 - 📫 How to reach me **midnightroam1@gmail.com**
 
