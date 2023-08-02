@@ -44,7 +44,7 @@ Additional skills:
 - Experience using Slack
 - Understanding of Agile (Scrum, Kanban) and Waterfall development methodologies.
 
-- 🧸 My soft skills: English language B1-B2, friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement.
+🧸 My soft skills: English language B1-B2, friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement.
 
 - 📫 How to reach me **midnightroam1@gmail.com**
 
