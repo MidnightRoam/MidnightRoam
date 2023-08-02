@@ -7,6 +7,7 @@
 
 👷 **Skills and Competencies**:
 </br>
+
 Backend:
 - Python
 - Django
