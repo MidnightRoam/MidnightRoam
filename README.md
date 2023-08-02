@@ -6,7 +6,7 @@
 💻 I am an backend/full-stack Python developer
 
 👷 **Skills and Competencies**:
-**Backend**:
+Backend:
 - Python
 - Django
 - Django REST framework
@@ -20,19 +20,19 @@
 - Scrapy
 - Aiogram
 
-**Databases and Related**:
+Databases and Related:
 - SQL syntax
 - MySQL
 - PostgreSQL
 - SQLAlchemy, Django ORM
 - Alembic
 
-**Frontend**:
+Frontend:
 - JavaScript
 - HTML, CSS
 - VueJS
 
-**Additional skills**:
+Additional skills:
 - English language B1-B2
 - Understanding of OOP (Object-Oriented Programming)
 - Optimization of Django ORM queries to the database
