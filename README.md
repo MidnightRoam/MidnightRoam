@@ -9,6 +9,9 @@
 </br>
 <details>
   <summary>Backend:</summary>
+    <ul>
+      <li>Python</li>
+    </ul>
   - Python
   - Django
   - Django REST framework
