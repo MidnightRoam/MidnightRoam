@@ -6,25 +6,20 @@
 💻 I am an backend/full-stack Python developer
 
 👷 **Skills and Competencies**:
-</br>
-<details>
-  <summary>Backend:</summary>
-    <ul>
-      <li>Python</li>
-    </ul>
-  - Python
-  - Django
-  - Django REST framework
-  - FastAPI
-  - Git
-  - Linux console
-  - Docker
-  - Celery
-  - Redis
-  - Deployment experience
-  - Scrapy
-  - Aiogram
-</details>
+</br
+Backend:
+- Python
+- Django
+- Django REST framework
+- FastAPI
+- Git
+- Linux console
+- Docker
+- Celery
+- Redis
+- Deployment experience
+- Scrapy
+- Aiogram
 
 Databases and Related:
 - SQL syntax
