@@ -6,7 +6,7 @@
 💻 I am an backend/full-stack Python developer
 
 👷 **Skills and Competencies**:
-</br
+</br>
 Backend:
 - Python
 - Django
