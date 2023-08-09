@@ -9,6 +9,7 @@
 </br>
 <details>
   <summary>Backend:</summary>
+  <br>
   <ul>
     <li>Python</li>
     <li>Django</li>
