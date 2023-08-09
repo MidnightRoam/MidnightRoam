@@ -9,18 +9,20 @@
 </br>
 <details>
   <summary>Backend:</summary>
-  - Python
-  - Django
-  - Django REST framework
-  - FastAPI
-  - Git
-  - Linux console
-  - Docker
-  - Celery
-  - Redis
-  - Deployment experience
-  - Scrapy
-  - Aiogram
+  <ul>
+    <li>Python</li>
+    <li>Django</li>
+    <li>Django REST framework</li>
+    <li>FastAPI</li>
+    <li>Git</li>
+    <li>Linux console</li>
+    <li>Docker</li>
+    <li>Celery</li>
+    <li>Redis</li>
+    <li>Deployment experience</li>
+    <li>Scrapy</li>
+    <li>Aiogram</li>
+  </ul>
 </details>
 
 
