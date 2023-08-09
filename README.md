@@ -7,20 +7,22 @@
 
 👷 **Skills and Competencies**:
 </br>
+<details>
+  <summary>Backend:</summary>
+  - Python
+  - Django
+  - Django REST framework
+  - FastAPI
+  - Git
+  - Linux console
+  - Docker
+  - Celery
+  - Redis
+  - Deployment experience
+  - Scrapy
+  - Aiogram
+</details>
 
-Backend:
-- Python
-- Django
-- Django REST framework
-- FastAPI
-- Git
-- Linux console
-- Docker
-- Celery
-- Redis
-- Deployment experience
-- Scrapy
-- Aiogram
 
 Databases and Related:
 - SQL syntax
