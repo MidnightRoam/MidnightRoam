@@ -26,13 +26,17 @@
   </ul>
 </details>
 
-
-Databases and Related:
-- SQL syntax
-- MySQL
-- PostgreSQL
-- SQLAlchemy, Django ORM
-- Alembic
+<details>
+  <summary>Databases and Related:</summary>
+  </br>
+  <ul>
+    <li>SQL syntax</li>
+    <li>MySQL</li>
+    <li>PostgreSQL</li>
+    <li>SQLAlchemy, Django ORM</li>
+    <li>Alembic</li>
+  </ul>
+</details>
 
 Frontend:
 - JavaScript
