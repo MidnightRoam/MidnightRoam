@@ -37,13 +37,13 @@
     <li>Alembic</li>
   </ul>
 </details>
-<detail>
+<details>
   <summary>Frontend:</summary>
   <br>
   <li>HTML, CSS</li>
   <li>VueJS</li>
 </detail>
-<detail>
+<details>
   <summary>Additional skills:</summary>
   <br>
   <li>English language B1-B2</li>
