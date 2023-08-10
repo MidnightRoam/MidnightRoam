@@ -37,12 +37,14 @@
     <li>Alembic</li>
   </ul>
 </details>
+
 <details>
   <summary>Frontend:</summary>
   <br>
   <li>HTML, CSS</li>
   <li>VueJS</li>
-</detail>
+</details>
+  
 <details>
   <summary>Additional skills:</summary>
   <br>
@@ -56,7 +58,7 @@
   <li>Experience using Miro</li>
   <li>Experience using Slack</li>
   <li>Understanding of Agile (Scrum, Kanban) and Waterfall development methodologies.</li>
-</detail>
+</details>
 
 🧸 **My soft skills**: friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement.
 
