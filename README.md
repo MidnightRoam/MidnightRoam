@@ -37,23 +37,26 @@
     <li>Alembic</li>
   </ul>
 </details>
-
-Frontend:
-- JavaScript
-- HTML, CSS
-- VueJS
-
-Additional skills:
-- English language B1-B2
-- Understanding of OOP (Object-Oriented Programming)
-- Optimization of Django ORM queries to the database
-- Understanding of principles such as DRY, KISS, YAGNI
-- Code documentation
-- Familiarity with Swagger (OpenAPI)
-- Experience using Jira
-- Experience using Miro
-- Experience using Slack
-- Understanding of Agile (Scrum, Kanban) and Waterfall development methodologies.
+<detail>
+  <summary>Frontend:</summary>
+  <br>
+  <li>HTML, CSS</li>
+  <li>VueJS</li>
+</detail>
+<detail>
+  <summary>Additional skills:</summary>
+  <br>
+  <li>English language B1-B2</li>
+  <li>Understanding of OOP (Object-Oriented Programming)</li>
+  <li>Optimization of Django ORM queries to the database</li>
+  <li>Understanding of principles such as DRY, KISS, YAGNI</li>
+  <li>Code documentation</li>
+  <li>Familiarity with Swagger (OpenAPI)</li>
+  <li>Experience using Jira</li>
+  <li>Experience using Miro</li>
+  <li>Experience using Slack</li>
+  <li>Understanding of Agile (Scrum, Kanban) and Waterfall development methodologies.</li>
+</detail>
 
 🧸 **My soft skills**: friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement.
 
