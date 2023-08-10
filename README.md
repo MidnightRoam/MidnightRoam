@@ -41,6 +41,7 @@
 <details>
   <summary>Frontend:</summary>
   <br>
+  <li>JavaScript</li>
   <li>HTML, CSS</li>
   <li>VueJS</li>
 </details>
