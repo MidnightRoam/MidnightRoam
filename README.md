@@ -5,7 +5,7 @@
 
 💻 I am an backend/full-stack Python developer
 
-👷 **Skills and Competencies**:
+👷 **Skills and Competencies** (click to open):
 </br>
 <details>
   <summary>Backend:</summary>
