@@ -14,7 +14,6 @@
     <li>Python</li>
     <li>Django</li>
     <li>Django REST framework</li>
-    <li>FastAPI</li>
     <li>Git</li>
     <li>Linux console</li>
     <li>Docker</li>
@@ -33,8 +32,7 @@
     <li>SQL syntax</li>
     <li>MySQL</li>
     <li>PostgreSQL</li>
-    <li>SQLAlchemy, Django ORM</li>
-    <li>Alembic</li>
+    <li>Django ORM</li>
   </ul>
 </details>
 
