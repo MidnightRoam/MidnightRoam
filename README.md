@@ -1,7 +1,3 @@
-<hr>
-<a href="default.asp"><img src="https://www.codewars.com/users/MidnightRoam/badges/large" alt="codewars-badge" style="text-align: center"></a>
-<hr>
-
 💻 I am an backend Python developer
 
 👷 **Skills and Competencies** (click to open):
@@ -57,6 +53,10 @@
   <li>Experience using Slack</li>
   <li>Understanding of Agile (Scrum, Kanban) and Waterfall development methodologies.</li>
 </details>
+
+<hr>
+<a href="default.asp"><img src="https://www.codewars.com/users/MidnightRoam/badges/large" alt="codewars-badge" style="text-align: center"></a>
+<hr>
 
 🧸 **My soft skills**: friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement.
 
