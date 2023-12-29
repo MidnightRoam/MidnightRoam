@@ -81,5 +81,3 @@
 Winston Churchill</blockquote>
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnightroam&theme=radical&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
