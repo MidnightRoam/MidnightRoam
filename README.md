@@ -1,6 +1,8 @@
 <a href="default.asp"><img src="https://www.codewars.com/users/MidnightRoam/badges/large" alt="codewars-badge" style="text-align: center"></a>
 
 💻 I am an backend Python developer
+<img src="https://profile-counter.glitch.me/{MidnightRoam}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+
 
 👷 **Skills and Competencies** (click to open):
 </br>
