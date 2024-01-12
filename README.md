@@ -1,7 +1,5 @@
 <a href="default.asp"><img src="https://www.codewars.com/users/MidnightRoam/badges/large" alt="codewars-badge" style="text-align: center"></a>
 
-💻 I am an backend Python developer
-
 
 👷 **Skills and Competencies** (click to open):
 </br>
