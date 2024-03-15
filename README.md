@@ -55,9 +55,6 @@
   <li>Understanding of Agile (Scrum, Kanban) and Waterfall development methodologies.</li>
 </details>
 
-
-🧸 **My soft skills**: friendliness in communication, non-conflict, the ability to listen, empathy, the ability to communicate with different types of people, hard work, perseverance, involvement.
-
 - 📫 How to reach me **midnightroam1@gmail.com**
 
 
