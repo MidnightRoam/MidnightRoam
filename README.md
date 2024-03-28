@@ -15,7 +15,7 @@
     <li>Docker</li>
     <li>Celery</li>
     <li>Redis</li>
-    <li>Deployment experience</li>
+    <li>Pytest</li>
     <li>Scrapy</li>
     <li>Aiogram</li>
   </ul>
