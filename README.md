@@ -46,7 +46,7 @@
   <li>English language B1-B2</li>
   <li>Understanding of OOP (Object-Oriented Programming)</li>
   <li>Optimization of Django ORM queries to the database</li>
-  <li>Understanding of principles such as DRY, KISS, YAGNI</li>
+  <li>Understanding of principles such as SOLID, DRY, KISS, YAGNI</li>
   <li>Code documentation</li>
   <li>Familiarity with Swagger (OpenAPI)</li>
   <li>Experience using Jira</li>
