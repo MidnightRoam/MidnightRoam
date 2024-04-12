@@ -33,11 +33,10 @@
 </details>
 
 <details>
-  <summary>Frontend:</summary>
+  <summary>Frontend: (additional skills)</summary>
   <br>
   <li>JavaScript</li>
   <li>HTML, CSS</li>
-  <li>VueJS</li>
 </details>
   
 <details>
