@@ -33,7 +33,7 @@
 </details>
 
 <details>
-  <summary>Frontend: (additional skills)</summary>
+  <summary>Frontend:</summary>
   <br>
   <li>JavaScript</li>
   <li>HTML, CSS</li>
