@@ -1,6 +1,5 @@
 <a href="default.asp"><img src="https://www.codewars.com/users/MidnightRoam/badges/large" alt="codewars-badge" style="text-align: center"></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MidnightRoam)](https://github.com/ashutosh00710/github-readme-activity-graph)
 👷 **Skills and Competencies** (click to open):
 </br>
 <details>
