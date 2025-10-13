@@ -43,16 +43,18 @@
 <details>
   <summary>Additional skills:</summary>
   <br>
-  <li>English language B1-B2</li>
-  <li>Understanding of OOP (Object-Oriented Programming)</li>
-  <li>Optimization of Django ORM queries to the database</li>
-  <li>Understanding of principles such as SOLID, DRY, KISS, YAGNI</li>
-  <li>Code documentation</li>
-  <li>Familiarity with Swagger (OpenAPI)</li>
-  <li>Experience using Jira</li>
-  <li>Experience using Miro</li>
-  <li>Experience using Slack</li>
-  <li>Understanding of Agile (Scrum, Kanban) and Waterfall development methodologies.</li>
+  <ul>
+    <li>English language B1-B2</li>
+    <li>Understanding of OOP (Object-Oriented Programming)</li>
+    <li>Optimization of Django ORM queries to the database</li>
+    <li>Understanding of principles such as SOLID, DRY, KISS, YAGNI</li>
+    <li>Code documentation</li>
+    <li>Familiarity with Swagger (OpenAPI)</li>
+    <li>Experience using Jira</li>
+    <li>Experience using Miro</li>
+    <li>Experience using Slack</li>
+    <li>Understanding of Agile (Scrum, Kanban) and Waterfall development methodologies.</li>
+  </ul>
 </details>
 
 - 📫 How to reach me **midnightroam1@gmail.com**
