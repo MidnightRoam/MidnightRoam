@@ -34,8 +34,10 @@
 <details>
   <summary>Frontend:</summary>
   <br>
-  <li>JavaScript</li>
-  <li>HTML, CSS</li>
+  <ul>
+    <li>JavaScript</li>
+    <li>HTML, CSS</li>
+  </ul>
 </details>
   
 <details>
